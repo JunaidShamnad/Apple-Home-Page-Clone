@@ -63,6 +63,7 @@ div.section-5-2{
 .nav-menu {
     display:block;
     position: fixed;
+    z-index:999;
     left: -100%;
     top: 6vh;
     flex-direction: column;
