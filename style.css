@@ -205,7 +205,7 @@ img.offer-icon {
 
 header {
   width: 100%;
-  min-height: 100vh;
+  height: 100vh;
   position: relative;
   background: #fbecf8;
   padding: 15px 0;
