@@ -212,6 +212,11 @@ header {
   text-align: center;
 }
 
+.header-h1{
+  max-width:78%;
+}
+
+
 div.main-header {
   width: 100%;
   height: 100%;
