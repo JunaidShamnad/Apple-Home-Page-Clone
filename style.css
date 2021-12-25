@@ -482,6 +482,10 @@ footer {
   font-size: 12.8px;
   font-weight: 400;
   letter-spacing: 0.1px;
+  user-select:none;
+  -webkit-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
 }
 
 div.footer-container {
