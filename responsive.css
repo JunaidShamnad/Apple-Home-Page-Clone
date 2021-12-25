@@ -520,6 +520,15 @@ div.footer-country{
     h1{
         font-size:35px;
     }
+    header {
+  width: 100%;
+  height: 85vh;
+  position: relative;
+  background: #fbecf8;
+  padding: 15px 0;
+  text-align: center;
+}
+
 
     .main-header h1{
         font-size:35px;
